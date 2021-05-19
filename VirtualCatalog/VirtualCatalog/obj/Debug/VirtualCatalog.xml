@@ -1,0 +1,61 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VirtualCatalog
+</name>
+</assembly>
+<members>
+<member name="T:VirtualCatalog.My.Resources.Resources">
+<summary>
+  Uma classe de recursos com tipo seguro para procurar cadeias localizadas, etc.
+</summary>
+</member>
+<member name="P:VirtualCatalog.My.Resources.Resources.ResourceManager">
+<summary>
+  Devolve a instância ResourceManager em cache utilizada para esta classe.
+</summary>
+</member>
+<member name="P:VirtualCatalog.My.Resources.Resources.Culture">
+<summary>
+  Substitui a propriedade CurrentUICulture do thread actual para todas as
+  pesquisas de recursos que utilizem esta classe de recurso com tipo seguro.
+</summary>
+</member>
+<member name="P:VirtualCatalog.My.Resources.Resources.Broom_icon">
+<summary>
+  Procura um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VirtualCatalog.My.Resources.Resources.cart">
+<summary>
+  Procura um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VirtualCatalog.My.Resources.Resources.close_cross">
+<summary>
+  Procura um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VirtualCatalog.My.Resources.Resources.cross">
+<summary>
+  Procura um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VirtualCatalog.My.Resources.Resources.edit">
+<summary>
+  Procura um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VirtualCatalog.My.Resources.Resources.Excel">
+<summary>
+  Procura um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VirtualCatalog.My.Resources.Resources.refresh">
+<summary>
+  Procura um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
